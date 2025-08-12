@@ -8,6 +8,7 @@ Uma aplicação completa de gerenciamento de jogos desenvolvida com **Node.js/Ex
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 - [📁 Estrutura do Projeto](#-estrutura-do-projeto)
 - [⚙️ Configuração e Instalação](#️-configuração-e-instalação)
+- [📸 Screenshots da Aplicação](#-screenshots-da-aplicação)
 - [🎯 Como Usar](#-como-usar)
 - [🔧 API Endpoints](#-api-endpoints)
 - [📱 Interface do Usuário](#-interface-do-usuário)
@@ -449,5 +450,3 @@ Esta aplicação demonstra uma implementação completa e moderna de um sistema 
 *🔄 **Última atualização**: Dezembro 2024*  
 *👨‍💻 **Desenvolvedor**: [Seu Nome]*  
 *📧 **Contato**: [seu-email@exemplo.com]*
-#   E x e r c - c i o - d e - B a c k e n d - e - F r o n t e n d - A g u l a r  
- 
