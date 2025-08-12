@@ -155,12 +155,12 @@ APP_PORT=3008
 ## 📸 Screenshots da Aplicação
 
 ### **🎮 Interface Principal - Lista de Jogos**
-![Lista de Jogos]([[https://i.imgur.com/example1.png](https://github.com/r-milioli/Exerc-cio-de-Backend-e-Frontend-Agular/blob/main/img/Captura%20de%20tela%202025-08-12%20125100.png)](https://github.com/r-milioli/Exerc-cio-de-Backend-e-Frontend-Agular/blob/main/img/Captura%20de%20tela%202025-08-12%20125100.png?raw=true))
+![Lista de Jogos](https://raw.githubusercontent.com/r-milioli/Exerc-cio-de-Backend-e-Frontend-Agular/refs/heads/main/img/Captura%20de%20tela%202025-08-12%20125100.png)
 
 *Tabela organizada mostrando todos os jogos cadastrados com funcionalidades de edição e exclusão*
 
 ### **📝 Formulário de Adição de Jogos**
-![Formulário de Adição]([[https://i.imgur.com/example2.png](https://github.com/r-milioli/Exerc-cio-de-Backend-e-Frontend-Agular/blob/main/img/Captura%20de%20tela%202025-08-12%20125046.png)](https://github.com/r-milioli/Exerc-cio-de-Backend-e-Frontend-Agular/blob/main/img/Captura%20de%20tela%202025-08-12%20125046.png?raw=true))
+![Formulário de Adição](https://raw.githubusercontent.com/r-milioli/Exerc-cio-de-Backend-e-Frontend-Agular/refs/heads/main/img/Captura%20de%20tela%202025-08-12%20125046.png)
 
 *Interface limpa para adicionar novos jogos ao sistema*
 
@@ -447,6 +447,6 @@ Esta aplicação demonstra uma implementação completa e moderna de um sistema 
 ---
 
 *📝 **Versão**: 1.0.0*  
-*🔄 **Última atualização**: Dezembro 2024*  
-*👨‍💻 **Desenvolvedor**: [Seu Nome]*  
-*📧 **Contato**: [seu-email@exemplo.com]*
+*🔄 **Última atualização**: Agosto 2025*  
+*👨‍💻 **Desenvolvedor**: [Robson Milioli]*  
+*📧 **Contato**: [robson.milioli@gmail.com]*
